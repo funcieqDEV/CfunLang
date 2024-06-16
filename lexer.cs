@@ -1,1 +1,6 @@
+using system;
 
+namespace cfun{
+
+
+}
