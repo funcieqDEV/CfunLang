@@ -6,6 +6,6 @@
 
 ## In progress
 <ul>
-<li>Tokena types</li>
+<li><del>Tokens types</del></li>
 <li>Lexer/Tokenizer</li>
 </ul>
