@@ -1,6 +1,6 @@
 <h1>CfunLang</h1><br>
 
-<p><b>it will be the most extensive programming language adapted to systems made in cosmos<b></p>
+<p><b>it will be the most extensive programming language adapted to systems made in cosmos</b></p>
 
 
 
