@@ -4,8 +4,8 @@
 
 <p>contact at funcieq.alt@gmail.com or on discord my username is "funcieq"</p>
 
-## In progress
+## To Do
 <ul>
 <li><del>Tokens types</del></li>
-<li>Lexer/Tokenizer</li>
+<li><del>Lexer/Tokenizer<\del></li>
 </ul>
