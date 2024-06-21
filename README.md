@@ -9,5 +9,6 @@
 <li><del>Tokens types</del></li>
 <li><del>Lexer/Tokenizer</del></li>
 <li>Print function <b>10%</b></li>
+<li> Variable Declaration <b>0%</b></li>
 <li>Gui mode <b>0%</b></li>
 </ul>
