@@ -3,3 +3,8 @@
 <p>however, you will also be able to use it on your computer, instructions can be found in installation.txt</p>
 
 <p>contact at funcieq.alt@gmail.com or on discord my username is "funcieq"</p>
+
+## In progress
+<li>
+<ul>Lexer<\ul>
+<\li>
