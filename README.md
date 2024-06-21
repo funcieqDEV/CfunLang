@@ -6,5 +6,8 @@
 
 ## In progress
 <li>
-<ul>Lexer<\ul>
+Tokena types
 <\li>
+<li>
+Lexer/Tokenizer
+<li>
