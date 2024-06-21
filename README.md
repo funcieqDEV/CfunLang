@@ -6,6 +6,6 @@
 
 ## In progress
 <li>
-Tokena types
+Tokena types<nr>
 Lexer/Tokenizer
 </li>
