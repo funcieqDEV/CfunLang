@@ -5,7 +5,7 @@
 <p>contact at funcieq.alt@gmail.com or on discord my username is "funcieq"</p>
 
 ## In progress
-<li>
-Tokena types<nr>
+<ul>
+Tokena types<br>
 Lexer/Tokenizer
-</li>
+</ul>
