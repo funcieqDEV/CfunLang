@@ -4,7 +4,7 @@
 
 <p>contact at funcieq.alt@gmail.com or on discord my username is "funcieq"</p>
 
-## To Do
+## To do
 <ul>
 <li><del>Tokens types</del></li>
 <li><del>Lexer/Tokenizer</del></li>
@@ -14,5 +14,6 @@
 <li>Loops: while/for/loop/do-while <b>0%</b></li>
 <li>Goto <b>0%</b></li>
 <li>Functions <b>0%</b></li>
+<li>Gui support (like sdl/MonoGame) <b>0%</b></li>
 <li>Gui mode <b>0%</b></li>
 </ul>
