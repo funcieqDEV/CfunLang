@@ -7,7 +7,5 @@
 ## In progress
 <li>
 Tokena types
-<\li>
-<li>
 Lexer/Tokenizer
 </li>
