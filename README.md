@@ -20,7 +20,7 @@ You're probably wondering why you should choose CfunLang and not anything else:
 <ul>
 <li><del>Tokens types</del></li>
 <li><del>Lexer/Tokenizer</del></li>
-<li>Print function <b>10%</b></li>
+<li>Print function <b>30%</b></li>
 <li>Variable Declaration <b>0%</b></li>
 <li>If statements <b>0%</b></li>
 <li>Loops: while/for/loop/do-while <b>0%</b></li>
